@@ -1,4 +1,5 @@
 This is required dor chat applications:-
 
 1. Emoji.
-2. Predictive Text
+2. Predictive Text.
+3. Dark Mode.
